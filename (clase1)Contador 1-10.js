@@ -6,4 +6,6 @@ for (let i = 1; i <= 10; i++) {
         contador++;
     }
 }
-console.log("El número de valores mayores que 5 es: " + contador);
+console.log("El número de valores mayores que 5 es: " + contador); 
+
+Hola
